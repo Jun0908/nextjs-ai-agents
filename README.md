@@ -31,11 +31,12 @@ XYMの現在の価格、トランザクションの情報、商品の情報な�
   
 
 ### 🔵 How to excute / 実行方法
-  - OPEN_WEATHER_API_KEY
+- APIの取得
+  ①OPEN_WEATHER_API_KEY
   [https://platform.openai.com/api-keys](https://hibi-update.org/other/openweathermap-api/)
-  - OPENAI_API_KEY
+  ②OPENAI_API_KEY
   https://platform.openai.com/api-keys
-  - NEMTUS_PRIVATE_KEY
+  ③NEMTUS_PRIVATE_KEY
   https://zenn.dev/nemtus/articles/blockchain-symbol-react-1st-symbol-sdk
 
 - Dockerの起動
