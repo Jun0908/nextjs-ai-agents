@@ -30,7 +30,7 @@ XYMの現在の価格、トランザクションの情報、商品の情報な�
  [Movie in Loom/ 紹介動画 Loom](https://www.loom.com/share/eeaaa68e8877401c8e24b800f2289f13?sid=f27caf84-7cdc-4a48-bf1b-6cd09654700a)
   
 
-### 🔵
+### 🔵 How to excute / 実行方法
   https://platform.openai.com/api-keys
   - NEMTUS_PRIVATE_KEY
   https://zenn.dev/nemtus/articles/blockchain-symbol-react-1st-symbol-sdk
