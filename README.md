@@ -1,6 +1,6 @@
 ## NEMTUS Hackathon 2024
 
-### Explanation / 説明書き
+### 📺 Explanation / 説明書き
 
 - ～実社会における課題解決～
 ブロックチェーン技術はその革新性やポテンシャルを謳うものの、
@@ -13,7 +13,7 @@ NEMTUS主催の第3回目ハッカソンとなる“Real Impact”では、
 (この内容について記載する)
 
 
-### To do at this time / 今回やったこと
+### 🎯 To do at this time / 今回やったこと
 ①Token & Mozaic
 AI Agentにトークンやモザイクを送信することができる
 
@@ -30,12 +30,7 @@ XYMの現在の価格、トランザクションの情報、商品の情報な�
  [Movie in Loom/ 紹介動画 Loom](https://www.loom.com/share/eeaaa68e8877401c8e24b800f2289f13?sid=f27caf84-7cdc-4a48-bf1b-6cd09654700a)
   
 
-### How to Execute / 実行方法
-
-- APIの取得
-  - OPEN_WEATHER_API_KEY
-  https://auto-worker.com/blog/?p=1612
-  - OPENAI_API_KEY
+### 🔵
   https://platform.openai.com/api-keys
   - NEMTUS_PRIVATE_KEY
   https://zenn.dev/nemtus/articles/blockchain-symbol-react-1st-symbol-sdk
