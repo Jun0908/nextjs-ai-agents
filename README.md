@@ -32,6 +32,7 @@ XYMの現在の価格、トランザクションの情報、商品の情報な�
 
 ### 🔵 How to excute / 実行方法
 - APIの取得
+  
   ①OPEN_WEATHER_API_KEY
   [https://platform.openai.com/api-keys](https://hibi-update.org/other/openweathermap-api/)
   
