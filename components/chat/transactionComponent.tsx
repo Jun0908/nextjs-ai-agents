@@ -22,7 +22,7 @@ const transactionComponent = () => {
 
   const handleTransaction = async () => {
     try {
-    const nodeUrl = "http://sym-test-01.opening-line.jp:3000";
+    const nodeUrl = "https://sym-test-04.opening-line.jp:3001";
     const repositoryFactory = new RepositoryFactoryHttp(nodeUrl);
     const epochAdjustment = await firstValueFrom(repositoryFactory.getEpochAdjustment());
     const networkType = await firstValueFrom(repositoryFactory.getNetworkType());
