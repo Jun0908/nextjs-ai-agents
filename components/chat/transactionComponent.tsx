@@ -1,6 +1,7 @@
 "use client"
 
-import React, { useState } from 'react';
+//import React, { useState } from 'react';
+import React from 'react';
 import {
   RepositoryFactoryHttp,
   Account,
@@ -16,9 +17,8 @@ const alicePrivateKey = process.env.NEXT_PUBLIC_ALICE_PRIVATE_KEY;
 const bobAddress = "TDEPNA5TIUEGP5NWIFO4KKCOGNYZLYOHTS7AZ5I";
 
 const transactionComponent = () => {
-
   //export default function transactionComponent () {
-  const [transactionResult, setTransactionResult] = useState({ hash: '', payload: '', response: '' });
+  //const [transactionResult, setTransactionResult] = useState({ hash: '', payload: '', response: '' });
 
   const handleTransaction = async () => {
     try {
