@@ -44,7 +44,7 @@ XYMの現在の価格、トランザクションの情報、商品の情報な�
 docker-compose up
 
 - フロントエンドの起動
-
+```bash
 # Clone the repository
 git clone https://github.com/Jun0908/nextjs-ai-agents
 
