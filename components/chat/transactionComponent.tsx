@@ -58,7 +58,7 @@ const TransactionComponent = () => {
       
     } catch (error) {
       console.error("Transaction error:", error);
-      alert("Transaction error: " );
+      alert("Transaction ?: " );
     }
   };
 
