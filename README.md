@@ -41,7 +41,9 @@ XYMの現在の価格、トランザクションの情報、商品の情報な�
   https://zenn.dev/nemtus/articles/blockchain-symbol-react-1st-symbol-sdk
 
 - Dockerの起動
+```bash
 docker-compose up
+```
 
 - フロントエンドの起動
 ```bash
