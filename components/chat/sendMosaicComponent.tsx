@@ -24,7 +24,9 @@ const sendMosaicComponent = () => {
   //const [transactionResult, setTransactionResult] = useState({ hash: '', payload: '', response: '' });
 
   const handleTransaction = async () => {
-    const nodeUrl = "https://sym-test-04.opening-line.jp:3001";
+    try {
+    const nodeUrl = "http://sym-test-01.opening-line.jp:3000";
+    //const nodeUrl = "https://sym-test-04.opening-line.jp:3001";
     const repositoryFactory = new RepositoryFactoryHttp(nodeUrl);
     const epochAdjustment = await firstValueFrom(repositoryFactory.getEpochAdjustment());
     const networkType = await firstValueFrom(repositoryFactory.getNetworkType());
@@ -77,6 +79,10 @@ const sendMosaicComponent = () => {
 
     alert("Transaction successful!");
 
+  } catch (error) {
+    console.error("Transaction error:", error);
+    alert("Transaction error: " );
+  }
   };
   
   return (
