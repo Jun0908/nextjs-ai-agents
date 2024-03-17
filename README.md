@@ -21,7 +21,7 @@ XYMの現在の価格、トランザクションの情報、商品の情報な�
 
  [Slide / スライド](https://www.canva.com/design/DAF7ojdua6E/8ErNYUTUAMa48AcUEhxCbA/edit?utm_content=DAF7ojdua6E&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
- [Movie in Loom/ 紹介動画 Loom](https://www.loom.com/share/eeaaa68e8877401c8e24b800f2289f13?sid=f27caf84-7cdc-4a48-bf1b-6cd09654700a)
+ [Movie in Loom/ 紹介動画 Loom]((https://www.loom.com/share/6d470c31cb374f7f94587d5b7be31d77?sid=c83495ec-9e79-43f2-96cd-7337bb9681b0))
   
 
 ### 🔵 How to excute / 実行方法
