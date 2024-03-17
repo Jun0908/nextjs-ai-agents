@@ -36,6 +36,9 @@ XYMの現在の価格、トランザクションの情報、商品の情報な�
   ③NEMTUS_PRIVATE_KEY
   https://zenn.dev/nemtus/articles/blockchain-symbol-react-1st-symbol-sdk
 
+  ④VOICEVOX_URL
+  http://127.0.0.1:50021
+
 - Dockerの起動
 ```bash
 docker-compose up
