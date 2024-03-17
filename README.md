@@ -30,7 +30,7 @@ XYMの現在の価格、トランザクションの情報、商品の情報な�
   ①OPEN_WEATHER_API_KEY
   [https://platform.openai.com/api-keys](https://hibi-update.org/other/openweathermap-api/)
   
-  ②OPENAI_API_KEY
+  ②OPENAI
   https://platform.openai.com/api-keys
   
   ③NEMTUS_PRIVATE_KEY
