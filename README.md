@@ -2,20 +2,20 @@
 
 ### 📺 Explanation / 説明書き
 
-- ～実社会における課題解決～
+- ～Solving problems in the real world / 実社会における課題解決～
 
 AI ChatBotとトークンやモザイクの送信統合を実現。AIエージェント増加を見据え、Web3ゲームでの営業を可能にし、稼いだ利益をコミュニティ経済圏へ還元し、クリエータに収益を分配するシステム構築を目指す。
-
+Achieved integration with AI ChatBot for sending tokens and mosaics. In anticipation of the increase in AI agents, we aim to build a system that enables sales in Web3 games, returns earned profits to the community economic system, and distributes profits to creators.
 
 ### 🎯 To do at this time / 今回やったこと
 ①Token & Mozaic
-AI Agentにトークンやモザイクを送信することができる
+You can send tokens and mosaics to AI AgentAI / Agentにトークンやモザイクを送信することができる
 
 ②API & LAnchin 
-XYMの現在の価格、トランザクションの情報、商品の情報などを聞くことができる
+You can listen to XYM's current price, transaction information, product information / XYMの現在の価格、トランザクションの情報、商品の情報などを聞くことができる
 
 ③VOICEVOX
-いろんな声優さんの声でテキストを読み上げてくれる
+The text is read aloud using the voices of various voice actors / いろんな声優さんの声でテキストを読み上げてくれる
 
  [Web アプリ](https://nextjs-ai-agents-5yhp0apkc-jun0908.vercel.app/)
 
@@ -25,7 +25,7 @@ XYMの現在の価格、トランザクションの情報、商品の情報な�
   
 
 ### 🔵 How to excute / 実行方法
-- APIの取得
+- Get API / APIの取得
   
   ①OPEN_WEATHER_API_KEY
   [https://platform.openai.com/api-keys](https://hibi-update.org/other/openweathermap-api/)
@@ -39,12 +39,12 @@ XYMの現在の価格、トランザクションの情報、商品の情報な�
   ④VOICEVOX_URL
   http://127.0.0.1:50021
 
-- Dockerの起動
+- Starting Docker / Dockerの起動
 ```bash
 docker-compose up
 ```
 
-- フロントエンドの起動
+- Starting Frontend /フロントエンドの起動
 ```bash
 # Clone the repository
 git clone https://github.com/Jun0908/nextjs-ai-agents
